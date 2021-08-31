@@ -1,0 +1,2 @@
+# mediacalc
+Initial Kotlin study
